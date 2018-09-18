@@ -36,5 +36,7 @@ Temporary Items
 *.class
 *.log
 
+### IG ###
+.idea
 
 # End of https://www.gitignore.io/api/git,scala,macos
